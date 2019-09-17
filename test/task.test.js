@@ -13,6 +13,5 @@ const promise = new Promise(function (resolve, reject) {
 }).catch(function (reason) {
   console.log(reason)
 });
-
 console.log('a');
 

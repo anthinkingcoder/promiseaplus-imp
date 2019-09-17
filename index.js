@@ -1,2 +1,2 @@
 const Promise = require('./lib/promise')
-module.exports = Promise
+module.exports = Promise;
